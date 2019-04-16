@@ -1,0 +1,9 @@
+{
+  "amd": {},
+  "volo": {
+    "baseUrl": "www/lib"
+  },
+  "dependencies": {
+    "leaflet-geosearch": "^2.7.0"
+  }
+}
